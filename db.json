@@ -27,47 +27,6 @@
     "coverGhUrl": null
   },
   {
-    "id": 1775566125401,
-    "title": "El Libro verde de las franquicias",
-    "tipo": "Manuales de Contenido",
-    "desc": "ksdjaj oj",
-    "colecciones": [
-      {
-        "eje": "h",
-        "sub": "educacion",
-        "ejeLabel": "Desarrollo Humano",
-        "subLabel": "Educación",
-        "key": "h|educacion"
-      },
-      {
-        "eje": "e",
-        "sub": "emprendimiento",
-        "ejeLabel": "Desarrollo Económico",
-        "subLabel": "Emprendimiento",
-        "key": "e|emprendimiento"
-      },
-      {
-        "eje": "a",
-        "sub": "espacios",
-        "ejeLabel": "Desarrollo Habitacional",
-        "subLabel": "Espacios PyP°",
-        "key": "a|espacios"
-      }
-    ],
-    "tags": [],
-    "coverDataUrl": null,
-    "soon": true,
-    "visibility": "public",
-    "files": [],
-    "isImg": false,
-    "dataUrl": null,
-    "ext": "",
-    "size": "",
-    "date": "2026",
-    "links": [],
-    "coverGhUrl": null
-  },
-  {
     "id": 1775656467145,
     "title": "1000 actividades para 100o dias",
     "tipo": "Herramientas",
