@@ -1,41 +1,5 @@
 [
   {
-    "id": 1775656467145,
-    "title": "1000 actividades para 1000 días",
-    "tipo": "Herramientas",
-    "desc": "",
-    "colecciones": [
-      {
-        "eje": "h",
-        "sub": "educacion",
-        "ejeLabel": "Desarrollo Humano",
-        "subLabel": "Educación",
-        "key": "h|educacion"
-      }
-    ],
-    "tags": [],
-    "coverDataUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775656461210_1000_actividades_para_100o_dias.jpeg",
-    "coverGhUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775656461210_1000_actividades_para_100o_dias.jpeg",
-    "soon": false,
-    "visibility": "public",
-    "links": [],
-    "files": [
-      {
-        "name": "1775655705586_MANUAL_CAIPLI_.pdf",
-        "ext": "pdf",
-        "size": "1.2MB",
-        "ghUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/files/1775656463236_1775655705586_MANUAL_CAIPLI_.pdf",
-        "isImg": false,
-        "dataUrl": null
-      }
-    ],
-    "isImg": false,
-    "dataUrl": null,
-    "ext": "pdf",
-    "size": "1.2MB",
-    "date": "2026"
-  },
-  {
     "id": 1775657023739,
     "title": "Pedagogía Huehaci. Manual pedagocico",
     "tipo": "Manuales de Contenido",
