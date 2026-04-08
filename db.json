@@ -68,42 +68,6 @@
     "coverGhUrl": null
   },
   {
-    "id": 1775566192781,
-    "title": "Descubriendo el mundo",
-    "tipo": "Manuales de Contenido",
-    "desc": "1000 juegos, 1000 actividades",
-    "colecciones": [
-      {
-        "eje": "h",
-        "sub": "educacion",
-        "ejeLabel": "Desarrollo Humano",
-        "subLabel": "Educación",
-        "key": "h|educacion"
-      }
-    ],
-    "tags": [],
-    "coverDataUrl": null,
-    "soon": false,
-    "visibility": "public",
-    "files": [
-      {
-        "name": "MANUAL CAIPLI .pdf",
-        "ext": "pdf",
-        "size": "1.2MB",
-        "ghUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/files/1775655705586_MANUAL_CAIPLI_.pdf",
-        "isImg": false,
-        "dataUrl": null
-      }
-    ],
-    "isImg": false,
-    "dataUrl": null,
-    "ext": "",
-    "size": "",
-    "date": "2026",
-    "links": [],
-    "coverGhUrl": null
-  },
-  {
     "id": 1775656467145,
     "title": "1000 actividades para 100o dias",
     "tipo": "Herramientas",
