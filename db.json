@@ -34,5 +34,41 @@
     "ext": "pdf",
     "size": "1.2MB",
     "date": "2026"
+  },
+  {
+    "id": 1775657023739,
+    "title": "Pedagogía Huehaci. Manual pedagocico",
+    "tipo": "Manuales de Contenido",
+    "desc": "",
+    "colecciones": [
+      {
+        "eje": "h",
+        "sub": "",
+        "ejeLabel": "Desarrollo Humano",
+        "subLabel": "",
+        "key": "h|"
+      }
+    ],
+    "tags": [],
+    "coverDataUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775657018445_Pedagog_a_Huehaci._Manual_pedagocico.jpeg",
+    "coverGhUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775657018445_Pedagog_a_Huehaci._Manual_pedagocico.jpeg",
+    "soon": false,
+    "visibility": "public",
+    "links": [],
+    "files": [
+      {
+        "name": "1775655705586_MANUAL_CAIPLI_.pdf",
+        "ext": "pdf",
+        "size": "1.2MB",
+        "ghUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/files/1775657020102_1775655705586_MANUAL_CAIPLI_.pdf",
+        "isImg": false,
+        "dataUrl": null
+      }
+    ],
+    "isImg": false,
+    "dataUrl": null,
+    "ext": "pdf",
+    "size": "1.2MB",
+    "date": "2026"
   }
 ]
