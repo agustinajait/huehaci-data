@@ -68,5 +68,32 @@
     "ext": "",
     "size": "",
     "date": "2026"
+  },
+  {
+    "id": 1775657254534,
+    "title": "1000 actividades para 1000 dias",
+    "tipo": "Herramientas",
+    "desc": "",
+    "colecciones": [
+      {
+        "eje": "h",
+        "sub": "educacion",
+        "ejeLabel": "Desarrollo Humano",
+        "subLabel": "Educación",
+        "key": "h|educacion"
+      }
+    ],
+    "tags": [],
+    "coverDataUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775657252536_1000_actividades_para_1000_dias.jpeg",
+    "coverGhUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775657252536_1000_actividades_para_1000_dias.jpeg",
+    "soon": false,
+    "visibility": "public",
+    "links": [],
+    "files": [],
+    "isImg": false,
+    "dataUrl": null,
+    "ext": "",
+    "size": "",
+    "date": "2026"
   }
 ]
