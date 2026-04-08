@@ -95,5 +95,39 @@
     "ext": "",
     "size": "",
     "date": "2026"
+  },
+  {
+    "id": 1775657359196,
+    "title": "El libreo verde de las franquicias. Que hacer...",
+    "tipo": "Libro",
+    "desc": "emnjkcznzclzzklvbb ljh",
+    "colecciones": [
+      {
+        "eje": "h",
+        "sub": "educacion",
+        "ejeLabel": "Desarrollo Humano",
+        "subLabel": "Educación",
+        "key": "h|educacion"
+      },
+      {
+        "eje": "e",
+        "sub": "emprendimiento",
+        "ejeLabel": "Desarrollo Económico",
+        "subLabel": "Emprendimiento",
+        "key": "e|emprendimiento"
+      }
+    ],
+    "tags": [],
+    "coverDataUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775657357471_El_libreo_verde_de_las_franquicias._Que_hacer....jpeg",
+    "coverGhUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775657357471_El_libreo_verde_de_las_franquicias._Que_hacer....jpeg",
+    "soon": true,
+    "visibility": "public",
+    "links": [],
+    "files": [],
+    "isImg": false,
+    "dataUrl": null,
+    "ext": "",
+    "size": "",
+    "date": "2026"
   }
 ]
