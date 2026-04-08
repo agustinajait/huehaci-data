@@ -190,5 +190,32 @@
     "ext": "",
     "size": "",
     "date": "2026"
+  },
+  {
+    "id": 1775658920260,
+    "title": "Agenda DINA",
+    "tipo": "Catálogo",
+    "desc": "Nuestra programación....",
+    "colecciones": [
+      {
+        "eje": "c",
+        "sub": "arte",
+        "ejeLabel": "Desarrollo Cultural",
+        "subLabel": "Arte",
+        "key": "c|arte"
+      }
+    ],
+    "tags": [],
+    "coverDataUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775658910058_Agenda_DINA.png",
+    "coverGhUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775658910058_Agenda_DINA.png",
+    "soon": true,
+    "visibility": "public",
+    "links": [],
+    "files": [],
+    "isImg": false,
+    "dataUrl": null,
+    "ext": "",
+    "size": "",
+    "date": "2026"
   }
 ]
