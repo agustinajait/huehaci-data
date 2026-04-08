@@ -1,32 +1,5 @@
 [
   {
-    "id": 1775566012309,
-    "title": "Manual Pedagógico. Emprendedores del futuro",
-    "tipo": "Manuales de Contenido",
-    "desc": "Educacion de Quíntuple Impacto",
-    "colecciones": [
-      {
-        "eje": "h",
-        "sub": "educacion",
-        "ejeLabel": "Desarrollo Humano",
-        "subLabel": "Educación",
-        "key": "h|educacion"
-      }
-    ],
-    "tags": [],
-    "coverDataUrl": null,
-    "soon": true,
-    "visibility": "public",
-    "files": [],
-    "isImg": false,
-    "dataUrl": null,
-    "ext": "",
-    "size": "",
-    "date": "2026",
-    "links": [],
-    "coverGhUrl": null
-  },
-  {
     "id": 1775656467145,
     "title": "1000 actividades para 100o dias",
     "tipo": "Herramientas",
