@@ -274,47 +274,6 @@
     "date": "2026"
   },
   {
-    "id": 1775659265701,
-    "title": "Mapa del camino emprendedor",
-    "tipo": "Postal",
-    "desc": "Colección de postales del camino del emprendedor por rubro",
-    "colecciones": [
-      {
-        "eje": "e",
-        "sub": "emprendimiento",
-        "ejeLabel": "Desarrollo Económico",
-        "subLabel": "Emprendimiento",
-        "key": "e|emprendimiento"
-      },
-      {
-        "eje": "i",
-        "sub": "procesos",
-        "ejeLabel": "Desarrollo de la Innovación",
-        "subLabel": "Procesos",
-        "key": "i|procesos"
-      },
-      {
-        "eje": "e",
-        "sub": "empleo",
-        "ejeLabel": "Desarrollo Económico",
-        "subLabel": "Empleo",
-        "key": "e|empleo"
-      }
-    ],
-    "tags": [],
-    "coverDataUrl": null,
-    "coverGhUrl": null,
-    "soon": true,
-    "visibility": "public",
-    "links": [],
-    "files": [],
-    "isImg": false,
-    "dataUrl": null,
-    "ext": "",
-    "size": "",
-    "date": "2026"
-  },
-  {
     "id": 1775661864349,
     "title": "Cocina simple y nutritiva",
     "tipo": "Herramientas",
