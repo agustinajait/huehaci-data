@@ -129,5 +129,39 @@
     "ext": "",
     "size": "",
     "date": "2026"
+  },
+  {
+    "id": 1775658350800,
+    "title": "Catalogo de emprendedores del Ecosistema Huahaci",
+    "tipo": "Catálogo",
+    "desc": "",
+    "colecciones": [
+      {
+        "eje": "h",
+        "sub": "educacion",
+        "ejeLabel": "Desarrollo Humano",
+        "subLabel": "Educación",
+        "key": "h|educacion"
+      },
+      {
+        "eje": "e",
+        "sub": "emprendimiento",
+        "ejeLabel": "Desarrollo Económico",
+        "subLabel": "Emprendimiento",
+        "key": "e|emprendimiento"
+      }
+    ],
+    "tags": [],
+    "coverDataUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775658349085_Catalogo_de_emprendedores_del_Ecosistema_Huahaci.jpeg",
+    "coverGhUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775658349085_Catalogo_de_emprendedores_del_Ecosistema_Huahaci.jpeg",
+    "soon": true,
+    "visibility": "public",
+    "links": [],
+    "files": [],
+    "isImg": false,
+    "dataUrl": null,
+    "ext": "",
+    "size": "",
+    "date": "2026"
   }
 ]
