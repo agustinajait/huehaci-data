@@ -176,6 +176,20 @@
         "ejeLabel": "Desarrollo Humano",
         "subLabel": "Educación",
         "key": "h|educacion"
+      },
+      {
+        "eje": "e",
+        "sub": "emprendimiento",
+        "ejeLabel": "Desarrollo Económico",
+        "subLabel": "Emprendimiento",
+        "key": "e|emprendimiento"
+      },
+      {
+        "eje": "e",
+        "sub": "produccion",
+        "ejeLabel": "Desarrollo Económico",
+        "subLabel": "Producción Local",
+        "key": "e|produccion"
       }
     ],
     "tags": [],
