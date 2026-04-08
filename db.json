@@ -34,5 +34,39 @@
     "ext": "pdf",
     "size": "1.2MB",
     "date": "2026"
+  },
+  {
+    "id": 1775657188960,
+    "title": "Pedagogia Huehaci. Emprendedores del futuro",
+    "tipo": "Manuales de Contenido",
+    "desc": "Manual de implementacion de la Pedagogía Huehaci.........",
+    "colecciones": [
+      {
+        "eje": "h",
+        "sub": "",
+        "ejeLabel": "Desarrollo Humano",
+        "subLabel": "",
+        "key": "h|"
+      },
+      {
+        "eje": "h",
+        "sub": "educacion",
+        "ejeLabel": "Desarrollo Humano",
+        "subLabel": "Educación",
+        "key": "h|educacion"
+      }
+    ],
+    "tags": [],
+    "coverDataUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775657186723_Pedagogia_Huehaci._Emprendedores_del_futuro.jpeg",
+    "coverGhUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775657186723_Pedagogia_Huehaci._Emprendedores_del_futuro.jpeg",
+    "soon": true,
+    "visibility": "public",
+    "links": [],
+    "files": [],
+    "isImg": false,
+    "dataUrl": null,
+    "ext": "",
+    "size": "",
+    "date": "2026"
   }
 ]
