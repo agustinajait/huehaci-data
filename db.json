@@ -163,5 +163,32 @@
     "ext": "",
     "size": "",
     "date": "2026"
+  },
+  {
+    "id": 1775658515598,
+    "title": "Pool de emprendedores.",
+    "tipo": "Programas",
+    "desc": "",
+    "colecciones": [
+      {
+        "eje": "h",
+        "sub": "educacion",
+        "ejeLabel": "Desarrollo Humano",
+        "subLabel": "Educación",
+        "key": "h|educacion"
+      }
+    ],
+    "tags": [],
+    "coverDataUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775658512929_Pool_de_emprendedores..png",
+    "coverGhUrl": "https://raw.githubusercontent.com/agustinajait/huehaci-data/main/covers/1775658512929_Pool_de_emprendedores..png",
+    "soon": true,
+    "visibility": "public",
+    "links": [],
+    "files": [],
+    "isImg": false,
+    "dataUrl": null,
+    "ext": "",
+    "size": "",
+    "date": "2026"
   }
 ]
